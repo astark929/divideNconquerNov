@@ -4,8 +4,6 @@ import java.io.*;
 import java.net.URL;
 import java.util.Scanner;
 
-//Acadia2003_photo.jpg
-
 public class inputOutput {
     public static void main(String[] args) throws IOException {
         Scanner scan = new Scanner(System.in);
